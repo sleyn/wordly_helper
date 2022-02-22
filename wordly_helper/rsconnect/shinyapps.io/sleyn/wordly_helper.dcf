@@ -1,0 +1,11 @@
+name: wordly_helper
+title:
+username:
+account: sleyn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5706372
+bundleId: 5604307
+url: https://sleyn.shinyapps.io/wordly_helper/
+when: 1645504316.44211
+lastSyncTime: 1645504316.44213
