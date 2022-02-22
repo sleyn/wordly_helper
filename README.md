@@ -3,7 +3,7 @@ Shiny app aims to help choose words for WORDLY game
 
 The app deployed on [https://sleyn.shinyapps.io/wordly_helper/](https://sleyn.shinyapps.io/wordly_helper/).
 
-As a words database the app uses Project Guttenberg frequency list of 40000 most used words: [Project Guttenberg Wiki lists](https://en.wiktionary.org/wiki/Wiktionary%3aFrequency_lists#Project_Gutenberg).
+As a words database the app uses Project Guttenberg frequency list of 40000 most used words created by Wiktionary Projects on 2006-04-16: [Wiktionary:Frequency lists](https://en.wiktionary.org/wiki/Wiktionary%3aFrequency_lists#Project_Gutenberg).
 
 ## Interface
 
