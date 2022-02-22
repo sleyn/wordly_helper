@@ -7,8 +7,10 @@ As a words database the app uses Project Guttenberg frequency list of 40000 most
 
 ## Interface
 
-![App interface](./img/interface.png)
-
+<kbd>
+<img src="./img/interface.png" width="500">
+</kbd>
+ 
 The interface consists in several segments:
 
 1. Choose number of letters in a word. Currently app supports only 4, 5 and 6-letter words.
